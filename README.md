@@ -19,9 +19,9 @@ A pioneering digital singing app used across Latin America.
 * Developed real-time features with **Firebase**
 * Delivered performant media pipelines and polished UX
 
-<img src="assets/kanto/6.5-1.jpg" width="300">
-<img src="assets/kanto/6.5-2.jpg" width="300">
-<img src="assets/kanto/6.5-3.jpg" width="300">
+![Kanto screenshot 1](/assets/kanto/6.5-1.jpg)
+![Kanto screenshot 2](/assets/kanto/6.5-2.jpg)
+![Kanto screenshot 3](/assets/kanto/6.5-3.jpg)
 
 ---
 
