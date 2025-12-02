@@ -11,8 +11,8 @@ Swiss–Costa Rican mobile engineer with experience building high-impact apps fo
 I craft **clean architectures**, build **pixel-perfect UI**, and love solving complex mobile problems that require scalable, testable design.
 
 ## Featured Projects
-- [EV Link Vehicle Experience – Sense](/projects/sense-ev-link)
-- [MindForge Workforce App](/projects/mindforge)
-- [Gastro – Restaurant Discovery App](/projects/gastro)
+- [EV Link Vehicle Experience – Sense](/projects/sense-ev-link.html)
+- [MindForge Workforce App](/projects/mindforge.html)
+- [Gastro – Restaurant Discovery App](/projects/gastro.html)
 
-👉 Learn more [About Me](/about) or [Get in Touch](/contact)
+👉 Learn more [About Me](/about.html) or [Get in Touch](/contact.html)
