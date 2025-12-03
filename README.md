@@ -37,10 +37,10 @@ A custom iOS app for restaurants and food discovery.
 * Fast, smooth UI focused on usability and clarity
 
 <p align="center">
-  <img src="/assets/gastro/gastro_login.png" width="240" />
-  <img src="/assets/gastro/gastro_home.png" width="240" />
-  <img src="/assets/gastro/gastro_details.png" width="240" />
-  <img src="/assets/gastro/gastro_menu.png" width="240" />
+  <img src="/assets/gastro/gastro_login.png" width="220" />
+  <img src="/assets/gastro/gastro_home.png" width="220" />
+  <img src="/assets/gastro/gastro_details.png" width="220" />
+  <img src="/assets/gastro/gastro_menu.jpg" width="220" />
 </p>
 
 ---
