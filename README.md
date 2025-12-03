@@ -85,9 +85,8 @@ A mobile streaming & short-video app.
 A modernized Device Settings experience in Sense's energy-monitoring mobile app
 
 **Highlights**
-- Rebuilt the legacy Device Settings flow using SwiftUI + TCA
-- First full feature delivered entirely in SwiftUI
-- Adopted TCA for clean state management & testability
+- Delivered my first fully SwiftUI-based feature
+- Adopted **TCA (The Composable Architecture)** for predictable state management and improved testability
 - Improved maintainability and UI consistency
 - Pixel-perfect layout aligned with Figma
 
@@ -96,6 +95,15 @@ A modernized Device Settings experience in Sense's energy-monitoring mobile app
   <img src="/assets/sense/device_settings_manage.PNG" width="220" />
   <img src="/assets/sense/device_settings_details.PNG" width="220" />
 </p>
+
+**Technologies:**
+- 💻 Swift & SwiftUI
+- 🧩 Multi-language support
+- 🔨 TCA Architecture (Composable Architecture)
+- 🧪 Unit Testing with TCA TestStore
+- 🔌 REST API integration patterns based on OpenAPI
+- 📱 Responsive & dynamic layout support
+- ⚙️ Dependency injection via TCA
 
 ---
 
