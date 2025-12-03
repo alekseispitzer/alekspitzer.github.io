@@ -81,9 +81,8 @@ A mobile streaming & short-video app.
 
 ---
 
-### ⚙️ Device Settings Refactor - Sense's energy-monitoring mobile app
+### ⚙️ Device Settings Refactor
 A modernized Device Settings experience in Sense's energy-monitoring mobile app
-https://sense.com/
 
 **Highlights**
 - Delivered my first fully SwiftUI-based feature
@@ -105,6 +104,8 @@ https://sense.com/
 - 🔌 REST API integration patterns based on OpenAPI
 - 📱 Responsive & dynamic layout support
 - ⚙️ Dependency injection via TCA
+
+https://sense.com/
 
 ---
 
