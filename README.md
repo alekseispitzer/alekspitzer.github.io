@@ -20,10 +20,10 @@ A pioneering digital singing app used across Latin America.
 * Delivered performant media pipelines and polished UX
 
 <p align="center">
-  <img src="/assets/kanto/kanto_screen_1.jpg" width="240" />
-  <img src="/assets/kanto/kanto_screen_3.jpg" width="240" />
-  <img src="/assets/kanto/kanto_screen_4.jpg" width="240" />
-  <img src="/assets/kanto/kanto_screen_5.jpg" width="240" />
+  <img src="/assets/kanto/kanto_screen_1.jpg" width="220" />
+  <img src="/assets/kanto/kanto_screen_3.jpg" width="220" />
+  <img src="/assets/kanto/kanto_screen_4.jpg" width="220" />
+  <img src="/assets/kanto/kanto_screen_5.jpg" width="220" />
 </p>
 
 ---
