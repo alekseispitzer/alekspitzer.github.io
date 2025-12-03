@@ -53,6 +53,12 @@ A mobile streaming & short-video app.
 * Modular architecture with reusable components
 * Analytics + push notifications
 
+<p align="center">
+  <img src="/assets/soul/soul_1.png" width="220" />
+  <img src="/assets/soul/soul_2.png" width="220" />
+  <img src="/assets/soul/soul_4.png" width="220" />
+</p>
+
 ---
 
 If you'd like, I can also prepare:
