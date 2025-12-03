@@ -77,6 +77,23 @@ A mobile streaming & short-video app.
 - 🛒 StoreKit
 - 🗂️ Realm
 - 📺 Connect SDK Integration
+- 🔨 MVC Architecture
+
+---
+
+### 🛰️ EV Link Vehicle Experience
+A system that helps EV owners link their electric vehicles to Sense's energy mobile app
+
+**Highlights**
+- Fully built in SwiftUI + TCA
+- Integration with REST, OAuth, and Enode APIs
+- Pixel-perfect layout aligned with Figma
+
+<p align="center">
+  <img src="/assets/sense/device_settings.png" width="220" />
+  <img src="/assets/sense/device_settings_manage.png" width="220" />
+  <img src="/assets/sense/device_settings_details.png" width="220" />
+</p>
 
 ---
 
