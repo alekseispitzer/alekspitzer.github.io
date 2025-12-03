@@ -81,12 +81,14 @@ A mobile streaming & short-video app.
 
 ---
 
-### 🛰️ EV Link Vehicle Experience
-A system that helps EV owners link their electric vehicles to Sense's energy mobile app
+### ⚙️ Device Settings Refactor - Sense
+A modernized Device Settings experience in Sense's energy-monitoring mobile app
 
 **Highlights**
-- Fully built in SwiftUI + TCA
-- Integration with REST, OAuth, and Enode APIs
+- Rebuilt the legacy Device Settings flow using SwiftUI + TCA
+- First full feature delivered entirely in SwiftUI
+- Adopted TCA for clean state management & testability
+- Improved maintainability and UI consistency
 - Pixel-perfect layout aligned with Figma
 
 <p align="center">
