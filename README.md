@@ -23,7 +23,6 @@ A pioneering digital singing app used across Latin America.
   <img src="/assets/kanto/kanto_screen_1.jpg" width="240" />
   <img src="/assets/kanto/kanto_screen_5.jpg" width="240" />
   <img src="/assets/kanto/kanto_screen_4.jpg" width="240" />
-  
 </p>
 
 ---
@@ -36,6 +35,13 @@ A custom iOS app for restaurants and food discovery.
 * Complex custom UI built in **UIKit**
 * Google Places integration, pagination, coordinator architecture
 * Fast, smooth UI focused on usability and clarity
+
+<p align="center">
+  <img src="/assets/gastro/gastro_login.png" width="240" />
+  <img src="/assets/gastro/gastro_home.png" width="240" />
+  <img src="/assets/gastro/gastro_details.png" width="240" />
+  <img src="/assets/gastro/gastro_menu.png" width="240" />
+</p>
 
 ---
 
