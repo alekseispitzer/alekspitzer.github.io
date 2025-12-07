@@ -3,7 +3,7 @@
 
 **Senior iOS Developer · 12+ Years Experience · INTJ · Swiss–Costa Rican 🇨🇭🇨🇷**
 
-iOS Developer with 12 years in tech, specializing in Apple’s ecosystem since 2012. I build user-centric, scalable applications for **iOS and iPadOS** using **Swift, UIKit, and SwiftUI**, with additional experience in Android development. Passionate about **UX design**, **clean architecture**, and delivering smooth, impactful user experiences.
+Senior iOS Developer with **12+ years of experience** building **high-quality, user-focused apps** using **Swift**, **SwiftUI**, and **UIKit**. I’ve **led mobile development** across startups and U.S. enterprise teams, delivering **scalable features**, **clean architectures**, and **pixel-perfect UI**. I’m passionate about **great UX**, **technical excellence**, and **continuously improving my craft**. Swiss–Costa Rican, disciplined, and driven to build products that genuinely make an impact.
 
 
 ## 🚀 What I Do Best
@@ -122,6 +122,8 @@ https://sense.com/
 
 ---
 
+*Code samples available upon request.*
+
 ## 🛠️ Skills & Tools
 
 **Languages & UI:** Swift, SwiftUI, UIKit, Objective-C  
@@ -134,7 +136,5 @@ https://sense.com/
 
 ## 📬 Contact
 
-**Email:** alekspitzer@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/alek-spitzer-55b678bb/  
-
-*Code samples available upon request.*
+**Email:** alekspitzer@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/alek-spitzer-55b678bb/
