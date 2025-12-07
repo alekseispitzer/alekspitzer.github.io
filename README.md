@@ -3,7 +3,7 @@
 
 **Senior iOS Developer · 12+ Years Experience · INTJ · Swiss–Costa Rican 🇨🇭🇨🇷**
 
-Senior iOS Developer with **12+ years of experience** building **high-quality, user-focused apps** using **Swift**, **SwiftUI**, and **UIKit**. I’ve **led mobile development** across startups and U.S. enterprise teams, delivering **scalable features**, **clean architectures**, and **pixel-perfect UI**. I’m passionate about **great UX**, **technical excellence**, and **continuously improving my craft**. Swiss–Costa Rican, disciplined, and driven to build products that genuinely make an impact.
+Senior iOS Developer with **12+ years of experience** building **high-quality, user-focused apps** using **Swift**, **SwiftUI**, and **UIKit**. I’ve led mobile development across startups and U.S. enterprise teams, delivering scalable features, clean architectures, and pixel-perfect UI. I’m passionate about **great UX**, technical excellence, and continuously improving my craft. Swiss–Costa Rican, disciplined, and driven to build products that genuinely make an impact.
 
 
 ## 🚀 What I Do Best
