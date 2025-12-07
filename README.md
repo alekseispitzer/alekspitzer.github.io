@@ -8,7 +8,7 @@ iOS Developer with 12 years in tech, specializing in Apple’s ecosystem since 2
 
 ## 🚀 What I Do Best
 
-I build high-quality, production-ready iOS apps end-to-end, balancing clean architecture, great UX, and practical delivery. I specialize in SwiftUI, TCA, UIKit, and media-heavy experiences—designing smooth interfaces, efficient data flows, and scalable feature architectures.
+I build high-quality, production-ready iOS apps end-to-end, balancing clean architecture, great UX, and practical delivery. I specialize in SwiftUI, TCA, UIKit, and media-rich features (AVFoundation, Core Audio, FFMPEG), smooth interfaces, efficient data flows, and scalable feature architectures.
 
 I’ve worked with multidisciplinary teams across startups in Latin America and larger U.S. companies like Fiserv and MindForge, adapting quickly to different cultures and workflows. This experience helps me collaborate effectively with design, product, backend, and QA to deliver features that are consistent, reliable, and user-focused.
 
@@ -121,3 +121,21 @@ Modernized the Device Settings flow within the Sense mobile app.
 https://sense.com/
 
 ---
+
+## 🛠️ Skills & Tools
+
+**Languages & UI:** Swift, SwiftUI, UIKit, Objective-C  
+**Architectures:** TCA, MVVM, MVC, Coordinators  
+**Frameworks:** AVFoundation, Core Audio, StoreKit, Firebase  
+**Data & Networking:** REST APIs, Alamofire, Realm, Core Data  
+**Tooling & Testing:** Xcode, Git, Fastlane, CI/CD, XCTest, Quick/Nimble, KIF
+
+---
+
+## 📬 Contact
+
+**Email:** alekspitzer@gmail.com  
+**GitHub:** https://github.com/alekseispitzer  
+**LinkedIn:** https://www.linkedin.com/in/alek-spitzer-55b678bb/  
+
+*Code samples available upon request.*
