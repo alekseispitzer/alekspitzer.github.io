@@ -1,9 +1,16 @@
 
 # 👋 Hi, I’m **Alek Spitzer**
 
-**Senior iOS Developer · 12+ Years Experience · Swiss–Costa Rican 🇨🇭🇨🇷**
+**Senior iOS Developer · 12+ Years Experience · INTJ · Swiss–Costa Rican 🇨🇭🇨🇷**
 
 iOS Developer with 12 years in tech, specializing in Apple’s ecosystem since 2012. I build user-centric, scalable applications for **iOS and iPadOS** using **Swift, UIKit, and SwiftUI**, with additional experience in Android development. Passionate about **UX design**, clean architecture, and delivering smooth, impactful user experiences.
+
+
+## 🚀 What I Do Best
+
+I build high-quality, production-ready iOS apps end-to-end, balancing clean architecture, great UX, and practical delivery. I specialize in SwiftUI, TCA, UIKit, and media-heavy experiences—designing smooth interfaces, efficient data flows, and scalable feature architectures.
+
+I’ve worked with multidisciplinary teams across startups in Latin America and larger U.S. companies like Fiserv and MindForge, adapting quickly to different cultures and workflows. This experience helps me collaborate effectively with design, product, backend, and QA to deliver features that are consistent, reliable, and user-focused.
 
 ---
 
@@ -31,6 +38,8 @@ A pioneering digital singing app used across Latin America.
 - 🔥 Firebase (Analytics, Crashlytics, Remote Notifications)
 - 🎞️ Lottie for animations
 - 🔨 MVC Architecture
+
+https://kanto.global/
 
 ---
 
@@ -79,12 +88,16 @@ A mobile streaming & short-video app.
 - 📺 Connect SDK Integration
 - 🔨 MVC Architecture
 
+https://www.soultv.com.br/
+
 ---
 
-### ⚙️ Device Settings Refactor
-A modernized Device Settings experience in Sense's energy-monitoring mobile app
+### **Sense - Energy-monitoring mobile app**
+
+Modernized the Device Settings flow within the Sense mobile app.
 
 **Highlights**
+- Refactored and modernized the Device Settings experience inside the Sense app
 - Delivered my first fully SwiftUI-based feature
 - Adopted **TCA (The Composable Architecture)** for predictable state management and improved testability
 - Improved maintainability and UI consistency
@@ -108,11 +121,3 @@ A modernized Device Settings experience in Sense's energy-monitoring mobile app
 https://sense.com/
 
 ---
-
-If you'd like, I can also prepare:
-
-📌 A full portfolio README (with About, Work Experience, Skills, Contact)
-📌 A version with images / GIFs
-📌 A more minimal aesthetic version
-
-Just tell me!
