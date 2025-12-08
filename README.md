@@ -8,7 +8,7 @@ Senior iOS Developer with **12+ years of experience** building **high-quality, u
 
 ## 🚀 What I Do Best
 
-I build high-quality, production-ready iOS apps end-to-end, balancing clean architecture, great UX, and pragmatic delivery. I specialize in **Swift**, **SwiftUI** & **UIKit**, and media-rich features using **AVFoundation**, **Core Audio**, and **FFMPEG**—focusing on smooth interfaces, efficient data flows, and scalable feature architectures.
+I specialize in **Swift**, **SwiftUI** & **UIKit**, and media-rich features using **AVFoundation**, **Core Audio**, and **FFMPEG**—focusing on smooth interfaces, efficient data flows, and scalable feature architectures.
 
 I’ve collaborated with multidisciplinary teams across startups in Latin America and larger U.S. companies like **Fiserv** and **MindForge**, adapting quickly to different cultures and workflows. This experience helps me work effectively with design, product, backend, and QA to deliver features that are consistent, reliable, and user-centered.
 
