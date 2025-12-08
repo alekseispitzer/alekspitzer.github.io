@@ -121,8 +121,6 @@ https://sense.com/
 
 ---
 
-*Code samples available upon request.*
-
 ## 🛠️ Skills & Tools
 
 **Languages & UI:** Swift, SwiftUI, UIKit, Objective-C  
@@ -131,6 +129,7 @@ https://sense.com/
 **Data & Networking:** REST APIs, Alamofire, Realm, Core Data  
 **Tooling & Testing:** Xcode, Git, Fastlane, CI/CD, XCTest, Quick/Nimble, KIF
 
+*Code samples available upon request.*
 ---
 
 ## 📬 Contact
